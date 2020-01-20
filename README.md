@@ -7,6 +7,8 @@ interface of a Python module or package. The `pdoc` script can be used to
 generate plain text or HTML of a module's public interface, or it can be used
 to run an HTTP server that serves generated HTML for installed modules.
 
+![pdoc example HTML](example.png)]
+
 
 Installation
 ------------
